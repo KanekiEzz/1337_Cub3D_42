@@ -26,10 +26,12 @@ You'll build everything manually: the math, the textures, the engine, and the ga
 
 🖐️ **NEW BONUS:** Integrated with a [Hand Gesture Keyboard Controller](https://github.com/KanekiEzz/hand-gesture-keyboard) — control the player using just your hand via webcam!
 
-  <video width="600" controls>
-    <source src="./public/vedio/1.webm" type="video/webm">
+<div style="text-align: center;">
+  <video width="600" controls autoplay loop muted>
+    <source src="./public/vedio/1.mp4" type="video/webm">
     Your browser does not support the video tag.
   </video>
+</div>
 
 
 ---
