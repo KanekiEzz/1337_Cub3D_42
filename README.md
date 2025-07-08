@@ -13,7 +13,7 @@
 > ✨ A first-person 3D game engine powered by **raycasting**, inspired by *Wolfenstein 3D* and built from scratch in **C** using **MiniLibX**.
 
 <p align="center">
-  <img src="./assets/screenshot_main.png" alt="Cub3D Demo Screenshot" width="700"/>
+  <img src="./public/image/3.png" alt="Cub3D Demo Screenshot" width="700"/>
 </p>
 
 ---
@@ -26,9 +26,13 @@ You'll build everything manually: the math, the textures, the engine, and the ga
 
 🖐️ **NEW BONUS:** Integrated with a [Hand Gesture Keyboard Controller](https://github.com/KanekiEzz/hand-gesture-keyboard) — control the player using just your hand via webcam!
 
-<p align="center">
-  <img src="./public/vedio/1.webm" alt="Hand Gesture Control" width="600"/>
-</p>
+<div style="text-align: center;">
+  <video width="600" controls>
+    <source src="./public/vedio/1.webm" type="video/webm">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 
 ---
 
