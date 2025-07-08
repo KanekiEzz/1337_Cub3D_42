@@ -24,7 +24,7 @@ Cub3D is your gateway into the world of **graphics programming**. It renders a 3
 
 You'll build everything manually: the math, the textures, the engine, and the gameplay interactions.
 
-🖐️ **NEW BONUS:** Integrated with a [Hand Gesture Keyboard Controller](https://github.com/KanekiEzz/hand-gesture-keyboard) — control the player using just your hand via webcam!
+🖐️ **NEW BONUS:** Integrated with a [Hand Gesture Keyboard Controller](https://github.com/KanekiEzz/1337_Cub3D_42/tree/main/Hand_Gesture_Keyboard_Control) — control the player using just your hand via webcam!
 
 <p align="center">
   <img src="./public/gif/1.gif" alt="Hand Gesture Control Demo" width="600"/>
