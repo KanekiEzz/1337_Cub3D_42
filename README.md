@@ -36,7 +36,7 @@
 ---
 
 <p align="center">
-  <img src="./assets/screenshot_main.png" alt="Cub3D Demo Screenshot" width="700"/>
+  <img src="./public/image/3.png" alt="Cub3D Demo Screenshot" width="700"/>
 </p>
 
 ---

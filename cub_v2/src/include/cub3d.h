@@ -6,7 +6,7 @@
 /*   By: iezzam <iezzam@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/04/30 18:17:09 by yaajagro          #+#    #+#             */
-/*   Updated: 2025/05/30 14:13:49 by iezzam           ###   ########.fr       */
+/*   Updated: 2025/07/08 09:49:21 by iezzam           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -38,8 +38,8 @@
 #define FLOOR_TOP 0x696969
 #define FLOOR_BOTTOM 0x36454F
 
-#define WIDTH 1200
-#define HEIGHT 720
+#define WIDTH 1700
+#define HEIGHT 820
 #define BLOCK 1000
 #define MINIMAP_WIDTH 200
 #define MINIMAP_HEIGHT 200
